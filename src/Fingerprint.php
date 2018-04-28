@@ -1,6 +1,6 @@
 <?php
 
-namespace Shureban;
+namespace Shureban\Fingerprinting;
 
 /**
  * Class Fingerprint
