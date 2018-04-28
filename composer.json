@@ -1,0 +1,15 @@
+{
+    "name": "shureban/php-fingerprinting",
+    "description": "A component that generates a unique fingerprint of a user",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shureban",
+            "email": "Shureban@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "7.0."
+    }
+}
